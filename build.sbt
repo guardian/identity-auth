@@ -5,7 +5,7 @@ name := "identity-play-auth"
 
 organization := "com.gu.identity"
 
-scalaVersion := "2.12.4"
+scalaVersion := "2.12.6"
 
 scmInfo := Some(ScmInfo(
   url("https://github.com/guardian/identity-play-auth"),
